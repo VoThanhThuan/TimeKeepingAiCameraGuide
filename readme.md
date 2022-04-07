@@ -1,4 +1,5 @@
-﻿# HỆ THỐNG HỖ  TRỢ CHẤM CÔNG BẰNG CAMERA AI
+﻿# TRANG HƯỚNG DẪN
+# HỆ THỐNG HỖ  TRỢ CHẤM CÔNG BẰNG CAMERA AI
 ## _ĐỒ ÁN DÀNH CHO KHÓA LUẬN TỐT NGHIỆP_
 ### người Thực Hiện: _Võ Thành Thuận - DPM185194_
 ### Thông tin liên hệ: [Facebook](https://www.facebook.com/anome69/) - [Zalo](zalo.me/anome69)
@@ -24,3 +25,13 @@ Hệ thống sử dụng các công cụ và ngôn ngữ như:
 - [Bootstrap](https://getbootstrap.com/) - Một thư viện CSS giúp giảm thời giản phát triển UI
 - [FontAwesome](https://fontawesome.com/) - Bộ icon dùng cho việc design.
 > Những công nghệ khác sẽ cập nhật trong tương lai.
+
+## Cách cài đặt
+- Thay đổi ConnectString trong file appsetting theo đường dẫn: \TimekeepingAiCamera\TimekeepingAiCamera.Api\appsettings.json
+- Cài đặt:
+ - B1: mở CMD tại thư mục "TimekeepingAiCamera.Api\".	
+ - B2: gõ lệnh "dotnet run" chương trình sẽ tự động cài đặt CSDL và một số dữ liệu mẫu.
+
+## Tài khoản và mật khẩu mặc định
+ - Tài khoản: admin
+ - Mật khẩu: admin
