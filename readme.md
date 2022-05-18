@@ -27,9 +27,9 @@ Hệ thống sử dụng các công cụ và ngôn ngữ như:
 > Những công nghệ khác sẽ cập nhật trong tương lai.
 
 ## Cách cài đặt
-- Thay đổi ConnectString trong file appsetting theo đường dẫn: \TimekeepingAiCamera\TimekeepingAiCamera.Api\appsettings.json
+- Thay đổi ConnectString trong file appsetting theo đường dẫn: TimekeepingAiCamera\TimekeepingAiCamera\Server\appsettings.json
 - Cài đặt:
- - B1: mở CMD tại thư mục "TimekeepingAiCamera.Api\".	
+ - B1: mở CMD tại thư mục "Server\".	
  - B2: gõ lệnh "dotnet run" chương trình sẽ tự động cài đặt CSDL và một số dữ liệu mẫu.
 
 ## Tài khoản và mật khẩu mặc định
